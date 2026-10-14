@@ -14,8 +14,8 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 
 - Any Arduino board.
 - A breadboard.
-- LED (any color).
-- 220 ohm resistor.
+- An LED (any color).
+- A 220 ohm resistor.
 - 4 wires.
 
 ### Diagram
