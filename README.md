@@ -2,7 +2,7 @@
 
 ## About
 
-A fading LED.
+A fading LED with Arduino.
 
 ## How to Use
 
