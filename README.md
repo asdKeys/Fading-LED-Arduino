@@ -20,7 +20,7 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 
 ### Diagram
 
-![Screenshot 1](Screenshot%202026-10-14%20150612.png)
+![Screenshot 1](Screenshot%202026-10-31%20150519.png)
 
 ## Created With
 
